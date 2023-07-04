@@ -81,6 +81,7 @@ h4{
     padding-right: 5px;
 }
 .Browser{
+    height: 75px;
     border: none;
     font-size: 2rem;
     margin-left: 1rem;
@@ -122,6 +123,7 @@ main{
 
 .wave{
     width: 100%;
+    filter: opacity(0.04);
 }
 
 .section_mage{
@@ -140,15 +142,13 @@ main{
 
 .onda{
     width: 100%;
-    background-color: rgb(246, 246, 246);
+    filter: opacity(0.04);
+    transform: rotate(180deg);
 }
 
 .section_cyclops{
     padding-top: 100px;
     padding-bottom: 100px;
-}
-.col_coach{
-
 }
 .col_pochi{
     padding-left: 6rem;
