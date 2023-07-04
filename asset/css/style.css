@@ -107,6 +107,8 @@ main{
     padding-top: 30px;
 }
 
+
+
 .section_frog{
     padding-top: 100px;
     padding-bottom: 100px;
@@ -126,6 +128,8 @@ main{
     filter: opacity(0.04);
     display: block;
 }
+
+
 
 .section_mage{
     background-color: rgb(246, 246, 246);
@@ -147,6 +151,8 @@ main{
     transform: rotate(180deg);
 }
 
+
+
 .section_cyclops{
     padding-top: 100px;
     padding-bottom: 100px;
@@ -159,6 +165,8 @@ main{
     font-size: 1.50rem;
     padding-top: 1rem;
 }
+
+
 
 .section_contact{
     background-color: rgb(246, 246, 246);
@@ -200,6 +208,9 @@ h3{
     padding: 1rem 1.50rem 1rem 1.50rem;
     border-radius: 2.50rem;
 }
+
+
+
 footer{
     background-color: rgb(35, 39, 42);
     width: 100%;
@@ -218,10 +229,11 @@ footer{
 .col_posto{
     width: 30%;
 }
-
 .talk{
     color: rgb(142, 161, 225);
-    padding-bottom: 50px;
+    padding-bottom: 30px;
+    max-width: 351px;
+    font-size: 2.50rem;
 }
 .language{
     color: white;
