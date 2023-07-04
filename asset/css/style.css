@@ -90,35 +90,28 @@ h4{
     border-radius: 2.50rem;
 }
 main{
-    max-width: 1170px;
-    width: 80%;
     margin: auto;
 }
-
-.third{
-    background-color: blueviolet;
-    height: 800px;
-    padding-top: 200px;
-}
-
 
 .container{
     width: 1170px;
     margin: auto;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 .row{
+    width: 1170px;
     display: flex;
     width: 100%;
     padding-top: 30px;
 }
 
 .section_frog{
-
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 .col_luogo{
-    padding-left: 4rem;
+    padding-left: 6rem;
     font-size: 2.25rem;
     width: 40%;
 }
@@ -127,30 +120,38 @@ main{
     padding-top: 1rem;
 }
 
+.wave{
+    width: 100%;
+}
 
 .section_mage{
     background-color: rgb(246, 246, 246);
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 .col_dove{
-    padding-right: 4rem;
+    padding-right: 6rem;
     font-size: 2.25rem
 }
 .comodità{
     font-size: 1.50rem;
     padding-top: 1rem;
 }
-.col_voice{
 
+.onda{
+    width: 100%;
+    background-color: rgb(246, 246, 246);
 }
 
 .section_cyclops{
-
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 .col_coach{
 
 }
 .col_pochi{
-    padding-left: 4rem;
+    padding-left: 6rem;
     font-size: 2.25rem;
 }
 .community{
@@ -158,6 +159,47 @@ main{
     padding-top: 1rem;
 }
 
+.section_contact{
+    background-color: rgb(246, 246, 246);
+    text-align: center;
+}
+.technology{
+    font-size: 3rem;
+    width: 100%;
+}
+.latenza{
+    font-size: 1.50rem;
+    padding-top: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.versatilità{
+    width: 1170px;
+    height: 800px;
+}
+.stars{
+    background-image: url(../img/stars.svg);
+    background-size: contain;
+    width: 1000px;
+    height: 40px;
+    margin: auto;
+}
+h3{
+    font-size: 2rem;
+    width: 600px;
+    padding-top: 50px;
+    margin: auto;
+}
+.appleOS{
+    margin-top: 5rem;
+    border: none;
+    font-size: 1.75rem;
+    margin-right: 1rem;
+    color: white;
+    background-color: rgb(142, 161, 225);
+    padding: 1rem 1.50rem 1rem 1.50rem;
+    border-radius: 2.50rem;
+}
 footer{
     background-color: black;
     height: 600px;
