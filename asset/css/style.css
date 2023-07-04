@@ -242,6 +242,13 @@ footer{
 .flag{
     width: 25px;
 }
+.social{
+    width: 25px;
+    height: 25px;
+    color: white;
+    margin-top: 1rem;
+    margin-right: 1rem;
+}
 .col_info{
     width: 17.5%;
     padding-left: 1rem;
