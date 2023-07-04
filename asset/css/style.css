@@ -186,8 +186,7 @@ main{
 }
 h3{
     font-size: 2rem;
-    width: 600px;
-    padding-top: 50px;
+    width: 600px; 
     margin: auto;
 }
 .appleOS{
@@ -201,40 +200,51 @@ h3{
     border-radius: 2.50rem;
 }
 footer{
-    background-color: black;
-    height: 600px;
-    max-width: 1170px;
-    width: 80%;
+    background-color: rgb(35, 39, 42);
+    width: 100%;
     margin: auto;
 }
 .footer_top{
-    background-color: grey;
     display: flex;
-    height: 300px;
+    max-width: 1170px;
     width: 80%;
     margin: auto;
     padding-top: 50px;
+    border-bottom: 1px solid rgb(142, 161, 225);
 }
-.col_3{
-    background-color: aqua;
+.col_posto{
     width: 30%;
-    height: 200px;
 }
-.col_4{
-    background-color: aqua;
+
+.talk{
+    color: rgb(142, 161, 225);
+    padding-bottom: 30px;
+}
+.language{
+    color: white;
+    font-size: 1rem;
+}
+.flag{
+    width: 25px;
+}
+.col_info{
     width: 17.5%;
-    height: 200px;
 }
 .footer_bottom{
-    background-color: grey;
     display: flex;
-    height: 100px;
+    max-width: 1170px;
     width: 80%;
     margin: auto;
     justify-content: space-between;
-    padding-top: 30px;
+    margin-top: 30px;
+    padding-bottom: 100px;
 }
-.button{
-    background-color: aqua;
-    height: 40px;
+.registrati{
+    border: none;
+    font-size: 1rem;
+    margin-right: 1rem;
+    color: white;
+    background-color: rgb(142, 161, 225);
+    padding: 0.75rem 0.75rem 0.75rem 0.75rem;
+    border-radius: 2.50rem;
 }
