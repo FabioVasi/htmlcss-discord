@@ -245,6 +245,7 @@ footer{
 .social{
     width: 25px;
     height: 25px;
+    fill: white;
     margin-top: 1rem;
     margin-right: 1.50rem;
 }
